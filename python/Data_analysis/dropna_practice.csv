@@ -1,0 +1,11 @@
+Name,Age,City,Salary,Department
+Aarav,22.0,Pune,45000.0,IT
+Diya,,Mumbai,52000.0,HR
+Rohan,25.0,,,IT
+Ananya,24.0,Delhi,60000.0,
+Kabir,,Pune,48000.0,Finance
+Meera,27.0,,,HR
+Arjun,23.0,Bangalore,55000.0,
+Ishita,,Delhi,62000.0,IT
+Vivaan,26.0,Mumbai,,Finance
+Sara,28.0,,70000.0,HR
